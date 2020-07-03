@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef5dd81e-0610-45e0-98cf-74573ebc8fcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="hbm.xml" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="application.xml" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aD8yyaeumbcFoPEzsZ7IivrEY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSH2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.tsmt" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestApp.test">
+    <configuration name="TestApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsmt" />
+      <option name="MAIN_CLASS_NAME" value="com.tsmt.TestApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsmt" />
+      <option name="MAIN_CLASS_NAME" value="com.tsmt.TestApp" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestApp.test" />
+        <item itemvalue="JUnit.TestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef5dd81e-0610-45e0-98cf-74573ebc8fcb" name="Default Changelist" comment="" />
+      <created>1586259062612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586259062612</updated>
+      <workItem from="1586259127624" duration="1308000" />
+      <workItem from="1586305969135" duration="7357000" />
+      <workItem from="1586328018933" duration="8493000" />
+      <workItem from="1586390602913" duration="2118000" />
+      <workItem from="1586395480018" duration="53000" />
+      <workItem from="1586415290714" duration="844000" />
+      <workItem from="1586426934711" duration="868000" />
+      <workItem from="1586739794529" duration="1141000" />
+      <workItem from="1587083689765" duration="390000" />
+      <workItem from="1592554038238" duration="913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="155" key="#Project_Structure" timestamp="1586309257284">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="398" y="155" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1586309257284" />
+    <state x="705" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586309013316">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="705" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1586309013316" />
+    <state x="606" y="222" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586310809288">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="606" y="222" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1586310809288" />
+    <state x="446" y="174" key="FileChooserDialogImpl" timestamp="1592554710664">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="174" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1592554710664" />
+    <state width="1063" height="133" key="GridCell.Tab.0.bottom" timestamp="1592554977573">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1063" height="133" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1592554977573" />
+    <state width="1058" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586357541984" />
+    <state width="1063" height="133" key="GridCell.Tab.0.center" timestamp="1592554977573">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1063" height="133" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1592554977573" />
+    <state width="1058" height="150" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586357541984" />
+    <state width="1063" height="133" key="GridCell.Tab.0.left" timestamp="1592554977573">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1063" height="133" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1592554977573" />
+    <state width="1058" height="150" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586357541984" />
+    <state width="1063" height="133" key="GridCell.Tab.0.right" timestamp="1592554977573">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1063" height="133" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1592554977573" />
+    <state width="1058" height="150" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586357541984" />
+    <state x="386" y="8" key="SettingsEditor" timestamp="1586744002540">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="237" y="11" key="SettingsEditor/0.0.1364.728@0.0.1364.728" timestamp="1586330763019" />
+    <state x="386" y="8" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586744002540" />
+    <state x="50" y="18" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586354206700" />
+    <state x="647" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586310823718">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="647" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860@0.0.1440.860" timestamp="1586310823717" />
+    <state x="168" y="125" key="new project wizard" timestamp="1586306985245">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="168" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1586306985245" />
+    <state x="538" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1586311018474">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="538" y="58" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1586311018474" />
+    <state x="486" y="179" key="spring file set editor" timestamp="1586309255411">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="486" y="179" key="spring file set editor/0.0.1440.860@0.0.1440.860" timestamp="1586309255411" />
+  </component>
+</project>
